@@ -1,4 +1,7 @@
-# Chrome for Testing availability
+h1,
+h2 {
+  font-size: 16pt;
+}
 
 ![](logo.svg)
 
